@@ -1,2 +1,2 @@
-# blge-blog-theme
+# bge-blog-theme
 BGE Blog and News letter WordPress Theme
